@@ -1,0 +1,5 @@
+{
+  "name": "limits-band",
+  "owner": { "name": "Gennady Konovalov" },
+  "plugins": [{ "name": "limits-band", "source": "./" }]
+}

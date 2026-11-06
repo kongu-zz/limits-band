@@ -1,0 +1,4 @@
+# Типы, которые Claude Code создаёт при загрузке мода
+.claude-plugin/types/
+node_modules/
+*.log

@@ -1,0 +1,10 @@
+{
+  "name": "limits-band",
+  "version": "0.1.0",
+  "description": "Лимиты подписки, контекст, модель, effort и стоимость сессии над строкой ввода, без устаревших данных",
+  "author": { "name": "Gennady Konovalov" },
+  "repository": "https://github.com/kongu-zz/limits-band",
+  "license": "MIT",
+  "keywords": ["claude-code", "mod", "rate-limits", "usage"],
+  "types": "./types/index.d.ts"
+}
